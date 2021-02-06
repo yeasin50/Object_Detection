@@ -19,3 +19,6 @@ ipython_config.py
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+# video
+*.mp4 
